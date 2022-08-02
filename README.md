@@ -6,7 +6,7 @@ framework it's provided tools and functionalities to build my app.
 -  example: angular, react, vue.js
 
 # Angular vs AngularJS
-- AngulaJS
+- AngularJS
   - ES5/ JavaScript
   - Controllers
   - No CLI
