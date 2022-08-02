@@ -9,10 +9,10 @@ framework it's provided tools and functionalities to build my app.
 - AngularJS
   - ES5/ JavaScript
   - Controllers
-  - No CLI
+  - No CLI(command line interface)
   - Can be combined with backend 
 - Angular 
   - ES6/ JavaScript Typescript
   - Components
-  - CLI provided
+  - CLI(command line interface) provided
   - cannot be combined
