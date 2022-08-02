@@ -19,7 +19,7 @@ framework it's provided tools and functionalities to build my app.
 # Angular Architecture
 - Modules
 - Components
-- Services & DI(Dependency Injection)
+- Services & DI(Dependency Injection)-design pattern
 - Directives
 - Pipes
 - Routing
