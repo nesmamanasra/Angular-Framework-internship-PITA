@@ -57,7 +57,7 @@ Explain : In Angular, text interpolation is used to display dynamic data on the 
  We cannot put arithmetic operations into interpolation, gives us an error, but we can put this 
   || Because it makes sense in comparison 
     
-    ![ng-4](https://user-images.githubusercontent.com/52491098/182578988-33226461-aae2-4965-887c-42e4f9003473.PNG)
+   ![ng-4](https://user-images.githubusercontent.com/52491098/182578988-33226461-aae2-4965-887c-42e4f9003473.PNG)
 
     
    #### simple practice 
