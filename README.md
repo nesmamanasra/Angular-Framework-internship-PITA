@@ -29,4 +29,4 @@ framework it's provided tools and functionalities to build my app.
 
 # Install angular 
 - open cmd and write this command to check if the node installed or not node -v
-- [ angular CLI ] [https://angular.io/cli]
+- [ angular CLI ](https://angular.io/cli)
