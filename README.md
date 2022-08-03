@@ -53,11 +53,14 @@ Explain : In Angular, text interpolation is used to display dynamic data on the 
     
     ![ng-3](https://user-images.githubusercontent.com/52491098/182569313-a7197391-371a-4f72-8d57-069129e6aad4.PNG)
     
- ##### note: 
+ #### Note: 
  We cannot put arithmetic operations into interpolation, gives us an error, but we can put this 
   || Because it makes sense in comparison 
     
-    #### simple practice 
+    ![ng-4](https://user-images.githubusercontent.com/52491098/182578988-33226461-aae2-4965-887c-42e4f9003473.PNG)
+
+    
+   #### simple practice 
     
 
 
