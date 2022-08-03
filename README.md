@@ -38,3 +38,4 @@ framework it's provided tools and functionalities to build my app.
 - Know the files inside the project and what to do 
 
 # Practical 
+- Text interpolation
