@@ -61,7 +61,7 @@ Explain : In Angular, text interpolation is used to display dynamic data on the 
 
     
    #### simple practice 
-    
+    [angular-task1-simple-practice-PITA](https://github.com/nesmamanasra/angular-task1-simple-practic)
 
 
    
