@@ -35,3 +35,6 @@ framework it's provided tools and functionalities to build my app.
   - ng new my-first-project "create first project"
   - cd my-first-project
   - ng serve / ng serv -o "run project"
+- Know the files inside the project and what to do 
+
+# Practical 
