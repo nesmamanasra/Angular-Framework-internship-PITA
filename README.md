@@ -38,4 +38,17 @@ framework it's provided tools and functionalities to build my app.
 - Know the files inside the project and what to do 
 
 # Practical 
-- Text interpolation
+- Text interpolation 
+Explain : In Angular, text interpolation is used to display dynamic data on the HTML template ts file and fetch data from there to the HTML template (component HTML file).
+- Example: Displayed the value of a variable from TS file in HTML file 
+- in app.component.ts: Add a variable with a value
+![ng-1](https://user-images.githubusercontent.com/52491098/182568434-fc5c5741-3873-4ea1-8702-ae0acb83defc.PNG)
+
+- in app.component.html :
+![ng-2](https://user-images.githubusercontent.com/52491098/182568501-dcba6b39-9afc-4769-aca4-d08ce4f23f72.PNG)
+
+- in Browser : show value of title
+![ng-3](https://user-images.githubusercontent.com/52491098/182569313-a7197391-371a-4f72-8d57-069129e6aad4.PNG)
+
+
+
