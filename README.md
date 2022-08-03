@@ -28,7 +28,7 @@ framework it's provided tools and functionalities to build my app.
 ![Architecture_of_an_Angular_2_application](https://user-images.githubusercontent.com/52491098/182458382-7c222f6f-3948-4a73-8590-8aacbf846082.png)
 
 # Install angular 
-- open cmd and write this command to check if the node installed or not node -v
+- open cmd and write this command to check if the node installed or not ```bash node -v ```
 - [ Angular CLI Documentation ](https://angular.io/cli)
   - Install the CLI using the npm package manager: npm install -g @angular/cli
   - ng generate --help  " show all command"
