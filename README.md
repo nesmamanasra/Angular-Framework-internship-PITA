@@ -34,4 +34,4 @@ framework it's provided tools and functionalities to build my app.
   - ng generate --help  " show all command"
   - ng new my-first-project "create first project"
   - cd my-first-project
-  - ng serve "run project"
+  - ng serve / ng serv -o "run project"
