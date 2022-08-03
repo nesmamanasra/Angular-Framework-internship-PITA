@@ -32,6 +32,6 @@ framework it's provided tools and functionalities to build my app.
 - [ Angular CLI Documentation ](https://angular.io/cli)
   - Install the CLI using the npm package manager: npm install -g @angular/cli
   - ng generate --help  " show all command"
-  - ng new my-first-project
+  - ng new my-first-project "create first project"
   - cd my-first-project
   - ng serve "run project"
