@@ -38,7 +38,9 @@ framework it's provided tools and functionalities to build my app.
 - Know the files inside the project and what to do 
 
 # Practical 
-- Text interpolation 
+# Binding 
+Understanding binding [documentation](https://angular.io/guide/binding-overview)
+## Text interpolation 
 Explain : In Angular, text interpolation is used to display dynamic data on the HTML template ts file and fetch data from there to the HTML template (component HTML file).
 - Example: Displayed the value of a variable from TS file in HTML file  
     - in app.component.ts: Add a variable with a value
@@ -66,7 +68,8 @@ Explain : In Angular, text interpolation is used to display dynamic data on the 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
    
-
+   ## Pproperty Binding
+   
 
    
 
